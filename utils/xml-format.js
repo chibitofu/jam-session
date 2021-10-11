@@ -11,8 +11,8 @@ var stationNameList = [
   "zoo-garten",
 ]
 
-for (const stationName in stationNameList) {
+stationNameList.forEach(function (stationName, idx) {
   var fileString = fs.readFileSync(`./station-timetables/raw/${stationName}.xml`).toString('utf-8');
   var formattedXml = format(fileString);
   console.log(formattedXml);
-}
+});
