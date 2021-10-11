@@ -28,4 +28,6 @@ stationNameList.forEach(function (stationName, idx) {
   });
 });
 
-console.log(stationToTimesMap);
+var exportString = `const stationToTimeMap = ${JSON.stringify(stationToTimesMap, null, 2)};\nexport stationToTimesMap;`
+
+fs.writeFileSync(`./station-timetables/stationToTimeMap.js`, exportString);
