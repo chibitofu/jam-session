@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timetable station="Erkner">
+    <s id="-8562810876548391311-2110110427-26">
+        <tl f="N" t="p" o="800154" c="RE" n="3167"/>
+        <ar pt="2110110653" pp="1" l="1" ppth="Magdeburg Hbf|Magdeburg-Neustadt|Magdeburg Herrenkrug|Biederitz|Gerwisch|M&#246;ser|Burg(Magdeburg)|G&#252;sen(b Genthin)|Genthin|Wusterwitz|Kirchm&#246;ser|Brandenburg Hbf|G&#246;tz|Gro&#223; Kreutz|Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf|Berlin Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstra&#223;e|Berlin Alexanderplatz|Berlin Ostkreuz"/>
+        <dp pt="2110110654" pp="1" l="1" ppth="Fangschleuse|Hangelsberg|F&#252;rstenwalde(Spree)|Frankfurt(Oder)"/>
+    </s>
+    <s id="-929060498983599615-2110110500-12">
+        <tl f="N" t="p" o="800154" c="RE" n="3101"/>
+        <ar pt="2110110623" pp="1" l="1" ppth="Brandenburg Hbf|Werder(Havel)|Potsdam Hbf|Berlin Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstra&#223;e|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz"/>
+        <dp pt="2110110624" pp="1" l="1" ppth="Fangschleuse|F&#252;rstenwalde(Spree)|Berkenbr&#252;ck|Briesen(Mark)|Jacobsdorf(Mark)|Pillgram|Frankfurt(Oder)-Rosengarten|Frankfurt(Oder)|Kraftwerk Finkenheerd|Finkenheerd|Wiesenau|Ziltendorf|Eisenh&#252;ttenstadt"/>
+    </s>
+    <s id="-253874280760834441-2110110414-23">
+        <tl f="N" t="p" o="800154" c="RE" n="3162"/>
+        <ar pt="2110110606" pp="2" l="1" ppth="Cottbus Hbf|Cottbus-Sandow|Cottbus-Merzdorf|Cottbus-Willmersdorf Nord|Teichland|Peitz Ost|J&#228;nschwalde|J&#228;nschwalde Ost|Kerkwitz|Guben|Coschen|Wellmitz|Neuzelle|Eisenh&#252;ttenstadt|Ziltendorf|Wiesenau|Finkenheerd|Kraftwerk Finkenheerd|Frankfurt(Oder)|F&#252;rstenwalde(Spree)|Hangelsberg|Fangschleuse"/>
+        <dp pt="2110110607" pp="2" l="1" ppth="Berlin Ostkreuz|Berlin Alexanderplatz|Berlin Friedrichstra&#223;e|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin Wannsee|Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Werder(Havel)|Gro&#223; Kreutz|G&#246;tz|Brandenburg Hbf"/>
+    </s>
+    <s id="8799214743630778369-2110110541-10">
+        <tl f="N" t="p" o="800154" c="RE" n="3108"/>
+        <ar pt="2110110637" pp="2" l="1" ppth="Eisenh&#252;ttenstadt|Frankfurt(Oder)|Frankfurt(Oder)-Rosengarten|Pillgram|Jacobsdorf(Mark)|Briesen(Mark)|Berkenbr&#252;ck|F&#252;rstenwalde(Spree)|Fangschleuse"/>
+        <dp pt="2110110638" pp="2" l="1" ppth="Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstra&#223;e|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin Wannsee|Potsdam Hbf|Werder(Havel)|Brandenburg Hbf|Kirchm&#246;ser|Wusterwitz|Genthin|G&#252;sen(b Genthin)|Burg(Magdeburg)|Magdeburg-Neustadt|Magdeburg Hbf"/>
+    </s>
+</timetable>
