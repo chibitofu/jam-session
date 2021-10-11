@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/chibitofu/train-station-acoustics#readme",
   "dependencies": {
-    "xml-formatter": "^2.4.1"
+    "xml-formatter": "^2.4.1",
+    "xml2js": "^0.4.23"
   }
 }
