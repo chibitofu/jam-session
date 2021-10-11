@@ -1,0 +1,22 @@
+{
+  "name": "train-station-acoustics",
+  "version": "1.0.0",
+  "description": "Use Deutsche Bahn stations and trains to create music.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chibitofu/train-station-acoustics.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chibitofu/train-station-acoustics/issues"
+  },
+  "homepage": "https://github.com/chibitofu/train-station-acoustics#readme",
+  "dependencies": {
+    "xml-formatter": "^2.4.1"
+  }
+}
